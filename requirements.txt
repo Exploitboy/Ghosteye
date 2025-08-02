@@ -1,0 +1,7 @@
+pyresparser
+pdfminer.six
+docx2txt
+spacy
+sentence-transformers
+scikit-learn
+nltk
